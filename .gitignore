@@ -1,0 +1,5 @@
+# exclude java inecessary files
+*.class
+*.java~
+/.metadata/
+/david_ruiz_parras

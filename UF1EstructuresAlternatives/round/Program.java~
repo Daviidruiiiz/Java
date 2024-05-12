@@ -1,0 +1,32 @@
+/*
+ * 
+ * Program.java
+ * 
+ * Given a positive decimal number and the number of decimal places to be rounded
+ * calculate the correctly rounded number
+ * 
+ * Copyright 2023 David Ruiz Parras <davidrp02444@gmail.com>
+ * 
+ * This is free software, licensed under the GNU General Public License
+ * See https://www.gnu.org/licenses/gpl-3.0.html for more information
+ */
+
+public class Program {
+
+    /**
+     * Given a positive decimal number and the number of decimal places to be rounded
+     * calculate the correctly rounded number
+     * 
+     * @param a num
+     *
+     * @return the correctly rounded number
+     */
+public int roundedNumber(double num) {
+    // Variable declaration
+    int answer = 0;
+    // Get the method 
+    
+    // Return the result 
+    return (int) nonDecimalNum;
+    }
+}
